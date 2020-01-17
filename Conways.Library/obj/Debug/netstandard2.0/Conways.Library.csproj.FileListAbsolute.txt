@@ -1,8 +1,0 @@
-E:\Vrishali\careerdevs-2019\c-sharp\ConwaysGameOfLife\Conways.Library\bin\Debug\netstandard2.0\Conways.Library.deps.json
-E:\Vrishali\careerdevs-2019\c-sharp\ConwaysGameOfLife\Conways.Library\bin\Debug\netstandard2.0\Conways.Library.dll
-E:\Vrishali\careerdevs-2019\c-sharp\ConwaysGameOfLife\Conways.Library\bin\Debug\netstandard2.0\Conways.Library.pdb
-E:\Vrishali\careerdevs-2019\c-sharp\ConwaysGameOfLife\Conways.Library\obj\Debug\netstandard2.0\Conways.Library.AssemblyInfoInputs.cache
-E:\Vrishali\careerdevs-2019\c-sharp\ConwaysGameOfLife\Conways.Library\obj\Debug\netstandard2.0\Conways.Library.AssemblyInfo.cs
-E:\Vrishali\careerdevs-2019\c-sharp\ConwaysGameOfLife\Conways.Library\obj\Debug\netstandard2.0\Conways.Library.dll
-E:\Vrishali\careerdevs-2019\c-sharp\ConwaysGameOfLife\Conways.Library\obj\Debug\netstandard2.0\Conways.Library.pdb
-E:\Vrishali\careerdevs-2019\c-sharp\ConwaysGameOfLife\Conways.Library\obj\Debug\netstandard2.0\Conways.Library.csprojAssemblyReference.cache
